@@ -1,4 +1,4 @@
-# Password Generator
+# ReactJs Password Generator
 
 This is a simple React app that generates random passwords based on user-selected options.
 
