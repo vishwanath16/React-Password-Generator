@@ -6,9 +6,9 @@ This is a simple React app that generates random passwords based on user-selecte
 
 To use this app, clone the repository and install the dependencies:
 
-git clone https://github.com/your-username/password-generator.git
-cd password-generator
-npm install
+1. git clone https://github.com/your-username/password-generator.git
+2. cd password-generator
+3. npm install
 
 
 ## Usage
